@@ -514,7 +514,7 @@ form {
 
   .back_image {
     background-image: url("/Images/bottom_imm.png");
-    background-image: cover;
+    background-size: cover;
     max-width: 100%;
     margin-top: 56px;
     margin-left: 30px;
