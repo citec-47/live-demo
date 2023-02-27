@@ -64,7 +64,7 @@ nav {
 }
 
 .back_image {
-  background-image: url("/Images/back_m.png.png");
+  background-image: url(/Images/back_m.png.png);
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -513,7 +513,7 @@ form {
   }
 
   .back_image {
-    background-image: url("/Images/back_m.png.png");
+    background-image: url(/Images/back_m.png.png);
     background-image: cover;
     max-width: 100%;
     margin-top: 56px;
