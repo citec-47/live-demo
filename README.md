@@ -78,13 +78,11 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://citec-47.github.io/live-demo/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -199,7 +197,8 @@ If you like this project please give it a star
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT] (https://github.com/citec-47/Mobile-view/blob/main/License) licensed.
+This project is [MIT] (https://github.com/citec-47/portfolio/blob/mobile-version/LICENSE.md) licensed.
+
 
 
 
