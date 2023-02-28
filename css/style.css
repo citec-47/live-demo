@@ -63,7 +63,7 @@ nav {
   background: #6070ff;
 }
 
-.back_image {
+#back_image {
   background-image: url("/Images/bottom.jpg.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -512,7 +512,7 @@ form {
     display: none;
   }
 
-  .back_image {
+  #back_image {
     background-image: url("/Images/bottom.jpg.png");
     background-image: cover;
     max-width: 100%;
