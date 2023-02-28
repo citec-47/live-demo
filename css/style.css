@@ -420,7 +420,7 @@ form {
 }
 
 .bottom_image {
-  background-image: "Images/bottom_im.png";
+  background-image: ("../Images/bottom_im.png");
   background-position: right;
   background-repeat: no-repeat;
   height: auto;
