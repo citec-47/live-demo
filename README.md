@@ -49,6 +49,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Portfolio] <a name="about-project"></a>
 
+
 **[Portfolio]** is a webpage build to display my projects, about me, skill and how to get in touch with me.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -77,9 +78,17 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://citec-47.github.io/live-demo/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
 
 To get a local copy up and running, follow these steps.
 
@@ -90,25 +99,30 @@ In order to run this project you need:
 - A web browser e.g Chrome
 - A code editor e.g VS code
 - A terminal
-- Git
+- Git 
+
 
 ### Setup
 
 Clone this repository to your desired folder:
+
 
 ```sh
   cd my-folder
   git clone https://github.com/citec-47/portfolio.git
 ```
 
+
 ### Install
 
 Install this project with:
+
 
 ```sh
   cd my-project
  npm install
 ```
+
 
 ### Deployment
 
@@ -121,8 +135,8 @@ Example:
 
 ```
  -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ ## 🚀 ReadME <a name="README"></a>
+ - [Readme](https://citec-47.github.io/live-demo/)
 
 <!-- AUTHORS -->
 
@@ -135,6 +149,7 @@ Example:
 - GitHub: [NdonyiMaurice](https://github.com/citec-47)
 - Twitter: [@NdonyiMaurice](https://twitter.com/Ndonyi4)
 - LinkedIn: [NdonyiMaurice](https://www.linkedin.com/in/ndonyi-maurice-b5b49b22b/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,13 +171,14 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/citec-47/live-demo/issues/2).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
+
 
 If you like this project please give it a star
 
@@ -184,5 +200,7 @@ If you like this project please give it a star
 ## 📝 License <a name="license"></a>
 
 This project is [MIT] (https://github.com/citec-47/portfolio/blob/mobile-version/LICENSE.md) licensed.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
