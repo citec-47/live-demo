@@ -64,7 +64,7 @@ nav {
 }
 
 #back_image {
-  background-image: url("../Images/bigger_img.png");
+  background-image: url("./Images/bigger_img.png");
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 100%;
@@ -513,7 +513,7 @@ form {
   }
 
   #back_image {
-    background-image: url("../Images/bigger_img.png");
+    background-image: url("./Images/bigger_img.png");
     background-image: cover;
     max-width: 100%;
     margin-top: 56px;
@@ -682,7 +682,7 @@ form {
   }
 
   .bottom_image {
-    background-image: url('../Images/bottom_big.png');
+    background-image: url('./Images/bottom_big.png');
     background-size: cover;
     max-width: 100%;
   }
