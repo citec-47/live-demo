@@ -133,8 +133,7 @@ Example:
 ```
  -->
  ## 🚀 ReadME <a name="README"></a>
-
-<p align="right">(<a href="(https://citec-47.github.io/live-demo/">back to top</a>)</p>
+ - [Readme](https://citec-47.github.io/live-demo/)
 
 <!-- AUTHORS -->
 
