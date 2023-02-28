@@ -73,15 +73,14 @@ nav {
   position: absolute;
   border-bottom-left-radius: 100px;
   margin-left: 2rem;
- 
 }
 
 .heading {
-    margin-top: 5rem;
-    font-size: 40px;
-    font-weight: 700;
-    margin-left: 26px;
-    color: #172b4d;
+  margin-top: 5rem;
+  font-size: 40px;
+  font-weight: 700;
+  margin-left: 26px;
+  color: #172b4d;
 }
 
 .heading span {
@@ -518,7 +517,7 @@ form {
   }
 
   #back_image {
-    background-image: url("../Images/bigger_img.png");
+    background-image: url("./Images/bigger_img.png");
     background-image: cover;
     max-width: 100%;
     margin-top: 56px;
@@ -687,7 +686,7 @@ form {
   }
 
   .bottom_image {
-    background-image: url('../Images/bottom_big.png');
+    background-image: url('./Images/bottom_big.png');
     background-size: cover;
     max-width: 100%;
   }
